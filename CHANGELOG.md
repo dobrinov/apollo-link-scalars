@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/eturino/apollo-link-scalars/compare/v0.1.8...v2.0.0) (2020-07-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* This version of the library won't be compatible with projects using Apollo 2.
+
+### Bug Fixes
+
+* export "makeExecutableSchema" through apollo-link-scalars ([2e98043](https://github.com/eturino/apollo-link-scalars/commit/2e98043d7bb82aa16776c15d4847211a9419f42c))
+
+
+* upgrade "apollo-link" to provide Apollo clinet version 3 support ([9315c19](https://github.com/eturino/apollo-link-scalars/commit/9315c19a148c18883f135f6ff95f591127e1421e))
+
 ### [0.1.8](https://github.com/eturino/apollo-link-scalars/compare/v0.1.7...v0.1.8) (2020-05-12)
 
 ### [0.1.7](https://github.com/eturino/apollo-link-scalars/compare/v0.1.6...v0.1.7) (2020-05-12)
